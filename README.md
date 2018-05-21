@@ -1,0 +1,1 @@
+# grails-list-index-bug
